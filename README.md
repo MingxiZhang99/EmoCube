@@ -230,7 +230,7 @@ Webcam Frame → Blit to 224×224 → NCHW Tensor (ImageNet norm) → MobileNetV
 
 <div align="center">
 
-![EmoCube Demo](assets/demo.gif)
+![EmoCube Demo](emocube.gif)
 
 *Real-time emotion recognition driving a 3D cube's color in Unity.*
 
