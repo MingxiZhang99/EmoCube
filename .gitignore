@@ -1,0 +1,67 @@
+# ========================
+# Unity generated
+# ========================
+emocube/Library/
+emocube/Temp/
+emocube/Obj/
+emocube/Build/
+emocube/Builds/
+emocube/Logs/
+emocube/UserSettings/
+emocube/MemoryCaptures/
+emocube/Recordings/
+
+# ========================
+# IDE / OS
+# ========================
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# macOS
+.DS_Store
+._*
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# ========================
+# Training outputs (large)
+# ========================
+export_out/
+*.pth
+DiffusionEmotion_S/
+
+# ========================
+# Large binary models (keep the ones in Assets/Models via Unity)
+# ========================
+# Uncomment below if .onnx models in project root should be ignored
+# *.onnx

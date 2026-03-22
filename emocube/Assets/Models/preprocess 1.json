@@ -1,0 +1,17 @@
+{
+  "img_size": 224,
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "input_layout": "NCHW",
+  "input_dtype": "float32",
+  "output": "logits",
+  "note": "Unity端预处理: RGB->float[0..1], (x-mean)/std, 变为NCHW"
+}
